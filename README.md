@@ -29,26 +29,26 @@ The platform supports both **text** and **voice** inputs, maintains **conversati
 
 ## Setup Instructions
 ##
-### 1. Clone the Repository
+#### 1. Clone the Repository
 ```bash
 git clone https://github.com/IlhamBouatioui15/GuideRB.ai-Chatbot-for-Visitors-of-Rabat.git
 ```
 
-### 2. Install dependencies
+#### 2. Install dependencies
 ```bash
 pip install -r requirements.txt
 ```
-### 3. Install Node.js and npm from:🔗 https://nodejs.org/
+#### 3. Install Node.js and npm from:🔗 https://nodejs.org/
 
-### 4. Inside the project folder "Frontend", run:
+#### 4. Inside the project folder "Frontend", run:
 ```bash
 npm install
 ```
-### 5. Run Flask:
+#### 5. Run Flask:
 ```bash
 python app.py
 ```
-### 6. Start the React app:
+#### 6. Start the React app:
 ```bash
 npm run dev
 ```
